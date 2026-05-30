@@ -19,11 +19,15 @@ name  = ["Anand","Rahul","Anand","Priya","Anjali"]
 # name.pop()
 # name.clear()
 # name.reverse()
-name.sort()
+# name.sort()
 
 
 # print(name.index("Priya"))
-print(name.count("Anand"))
-for x in name:
-    print(x)
+# print(name.count("Anand"))
+# for x in name:
+#     print(x)
 
+
+# my_tuple  = ("Anand","Rahul","Anand","Priya","Anjali")
+# # my_tuple[0] = "Rohit"  # This will raise an error because tuples are immutable
+# print(my_tuple)
